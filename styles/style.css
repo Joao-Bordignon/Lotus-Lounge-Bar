@@ -183,7 +183,7 @@ footer p{
 }
 
 #home{
-    background-image: url(/IMG/lotus-bar.jpeg);
+    background-image: url(/IMG/lotus-bar.png);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -484,7 +484,6 @@ footer p{
     }
 
     #home{
-        background-image: url(/IMG/lotus-bar.jpeg);
         background-position: center;
         background-size: cover;
         width: 100%;
